@@ -1,5 +1,5 @@
 # rd-menu
-Modified Menu From NH-Context
+This is a modified version of **https://github.com/reyyghi/qb-menu-esx**
 
 
 --[[
